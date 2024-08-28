@@ -11,6 +11,16 @@ conda env create -f environment.yml
 conda activate esmac-2024-seminar
 ```
 
+## Running Jupyter notebooks
+- Navigate to the notebooks subfolder
+- Launch jupyter
+- Navigate to appropriate notebook on your browser
+
+```
+cd notebooks
+jupyter notebooks
+```
+
 #### Toolboxes and/or Supporting Materials
 - [Data Science in Practice](https://eeglabuksh.github.io/datascience_in_practice/intro.html)
 - [Neuromatch's Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html#)
