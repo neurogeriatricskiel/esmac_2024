@@ -14,6 +14,9 @@ dependencies:
   - jupyter
   - ipywidgets
   - plotly
+  - pyomeca
+  - ezc3d
+  - kineticstoolkit
   - pip:
     - kielmat
     - gaitmap
