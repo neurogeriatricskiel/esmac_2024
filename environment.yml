@@ -19,6 +19,6 @@ dependencies:
   - kineticstoolkit
   - pip:
     - kielmat
-    - gaitmap
-    - gaitmap_mad
+    - gaitmap==2.3.0
+    - gaitmap_mad==2.3.0
     - vqf
