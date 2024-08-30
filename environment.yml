@@ -3,17 +3,19 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - python=3.9
-  - sphinx
+  - python=3.10
   - pip
+  - numpy
+  - scipy
   - pandas
   - matplotlib
+  - sphinx
   - ipykernel
   - jupyter
   - ipywidgets
   - plotly
-  - openneuro-py
   - pip:
+    - kielmat
     - gaitmap
-    - gaitmap[hmm]
     - gaitmap_mad
+    - vqf
